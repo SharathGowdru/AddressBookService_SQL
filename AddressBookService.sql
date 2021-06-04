@@ -16,3 +16,10 @@ Phone_number varchar(15),
 email varchar(50))
 
 select * from employee_payroll
+
+insert into employee_Payroll values
+(
+'Sharath','Gowdru','SharadaNagar','Hassan','Karnataka',573116,9916633661,'SHarus9587@gmail.com'),
+('Shashi','kumar','Vijay_Nagar','Kolar','Karnataka',573201,1234567896,'Shashi1234@gmail.com'),
+('Rakesh','Raki','Bommanahalli','Banglore','Karnataka',573112,9912000001,'raki@gmail.com'),
+('Harsha','Vardhan','Shivjyothi_nagar','Mandya','Karnataka',573118,9141253625,'Sharus9587@gmail.com');
