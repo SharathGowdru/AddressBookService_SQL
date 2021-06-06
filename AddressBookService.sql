@@ -32,10 +32,7 @@ select * from employee_payroll where city = 'Hassan' and  state = 'Karnataka'
 
 select COUNT(first_name) from employee_payroll where city = 'Hassan' and state = 'Karnataka'
 
-
-
-
-
+select * from employee_payroll ORDER BY first_name,city
 
 
 
