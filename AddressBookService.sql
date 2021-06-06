@@ -28,7 +28,7 @@ update employee_payroll set zip = 573115 where first_name = 'Harsha'
 
 Delete from employee_payroll where first_name = 'Harsha'
 
-select city, state from employee_payroll where first_name = 'Sharath'
+select * from employee_payroll where city = 'Hassan' and  state = 'Karnataka'
 
 
 
