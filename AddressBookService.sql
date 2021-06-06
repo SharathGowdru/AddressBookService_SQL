@@ -30,6 +30,8 @@ Delete from employee_payroll where first_name = 'Harsha'
 
 select * from employee_payroll where city = 'Hassan' and  state = 'Karnataka'
 
+select COUNT(first_name) from employee_payroll where city = 'Hassan' and state = 'Karnataka'
+
 
 
 
